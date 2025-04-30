@@ -1,14 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "works": [
+  {
+    "id": "08",
+    "image": "src/img/banner/book-mockup-8.jpg",
+    "mobImage": "src/img/banner/book-mockup-8-sm.jpg",
+    "description": "Image 00",
+    "slug": "/work/variohomes",
+    "color": "#fff",
+    "bgcolor": "#02C1C0",
+    "headtext": "VARIO HOMES<br/>MIXED MEDIA CAMPAIGN | UI",
+    "tagline": "A future without Barriers"
+  },
+  {
+    "id": "07",
+    "image": "src/img/banner/book-mockup-7.jpg",
+    "mobImage": "src/img/banner/book-mockup-7-sm.jpg",
+    "description": "Image 01",
+    "slug": "/work/vivtera",
+    "color": "#fff",
+    "bgcolor": "#211843",
+    "headtext": "VIVTERA<br/>BRANDING | UI",
+    "tagline": "Branding a Billion Dollars."
+  },
+  {
+    "id": "06",
+    "image": "src/img/banner/book-mockup-6.jpg",
+    "mobImage": "src/img/banner/book-mockup-6-sm.jpg",
+    "description": "Image 02",
+    "slug": "/work/jindalcity",
+    "color": "#fff",
+    "bgcolor": "#85c240",
+    "headtext": "PRESTIGE JINDAL CITY<br/>MIXED MEDIA CAMPAIGN",
+    "tagline": "Easing traffic woes with public transport."
+  },
+  {
+    "id": "05",
+    "image": "src/img/banner/book-mockup-5.jpg",
+    "mobImage": "src/img/banner/book-mockup-5-sm.jpg",
+    "description": "Image 03",
+    "slug": "/work/chrysalis",
+    "color": "#f00a0a",
+    "bgcolor": "#e95757",
+    "headtext": "Chrysalis<br/> Branding | UI",
+    "tagline": "The power<br/>of one."
+  },
+  {
+    "id": "04",
+    "image": "src/img/banner/book-mockup-4.jpg",
+    "mobImage": "src/img/banner/book-mockup-4-sm.jpg",
+    "description": "Image 04",
+    "slug": "/work/kriticalhealth",
+    "color": "#f992aa",
+    "bgcolor": "#71cbd1",
+    "headtext": "Kritical Health<br/> Branding",
+    "tagline": "Increasing Healthcare efficiency with design."
+  },
+  {
+    "id": "03",
+    "image": "src/img/banner/book-mockup-3.jpg",
+    "mobImage": "src/img/banner/book-mockup-3-sm.jpg",
+    "description": "Image 05",
+    "slug": "/work/alok",
+    "color": "#de2478",
+    "bgcolor": "#661d52",
+    "headtext": "The Alok Masterbatches<br/> Rebranding",
+    "tagline": "From commodity to speciality."
+  },
+  {
+    "id": "02",
+    "image": "src/img/banner/book-mockup-2.jpg",
+    "mobImage": "src/img/banner/book-mockup-2-sm.jpg",
+    "description": "Image 06",
+    "slug": "/work/77place",
+    "color": "#680f39",
+    "bgcolor": "#ed435e",
+    "headtext": "77° Place Luxury Apartment<br/>Mixed Media Campaign",
+    "tagline": "Research driven<br/>Real-Estate Advertising."
+  },
+  {
+    "id": "01",
+    "image": "src/img/banner/book-mockup-1.jpg",
+    "mobImage": "src/img/banner/book-mockup-1-sm.jpg",
+    "description": "Image 07",
+    "slug": "/work/karle",
+    "color": "#fc7859",
+    "bgcolor": "#1f1f1f",
+    "headtext": "Karle Town Centre -<br/> Short Film",
+    "tagline": "Connecting People & <br/>Real-Estate."
   }
+]
 }
